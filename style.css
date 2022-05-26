@@ -1,29 +1,71 @@
 body {
     display: flex;
-    background: violet;
-    margin:0%
-    
+    margin:0%;
+   width: 60%;
+   height: 500%;
+ 
+   padding: 1px; 
+   background: blue;
+}
+
+h1{ 
+    text-align: center;
+font-family: ;
+font-size: 400%;
+margin:0%
+}
+
+h3 {
+    margin:5px;
+    padding-top: 20px;
+    text-align: center;
+}
+.perfil{ text-align: left;
+    padding: 3%;
+    margin: 0%;
+}
+.hobbies{
+    align-content: center;
+    text-align: center;
+    background: blue;
 }
 
 
-header {
+p{ padding: 5%;
+margin:0%;
+margin-top: 0%;
+background: rgb(202, 133, 133);
+}
+    .boxone{ 
+    background: black;
+    margin: 1px;
+    width: 50%;
+    height: 0.5%;
     padding: 0%;
-    margin:0%
-    background: rgb(157, 157, 243)
-    
+     }
+    ol{
+        margin: 1%;
+        padding: 0%;
+    }
+header {
+    align-content: center;
+    text-align: ;
+    margin:0%;
+   width: 30%;
+   padding: 1%;
+   background:rgb(202, 133, 133);
 }
 
-.contenedorderecha{
-    background: violet;
-    
-    border-style: solid;
-    
-}
 .titulos{ align-items: center;}
-/*section {
-    display: flex;
-    background: white;
-    justify-content: center;
-    border: 5px, black;
 
-}*/
+section {
+    margin:0%;
+   width: 60%;
+   padding: 0px;
+   padding-top: 0%;
+   padding-bottom: 0%;
+   text-align: center;
+   background: rgb(199, 191, 191);
+
+
+}
