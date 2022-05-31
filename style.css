@@ -3,16 +3,17 @@ body {
     margin:0%;
    width: 60%;
    height: 500%;
- 
+   align-content: center;
    padding: 1px; 
    background: rgb(249, 249, 250);
+   border-radius:;
+
 }
 
 h1{ 
     text-align: center;
-font-family: ;
-font-size: 400%;
-margin:0%
+font-size: 300%;
+margin: 10px;
 }
 
 h3 {
@@ -20,52 +21,56 @@ h3 {
     padding-top: 20px;
     text-align: center;
 }
-.perfil{ text-align: left;
+.perfil{ text-align: center;
     padding: 3%;
     margin: 0%;
+    background: rgb(249, 249, 250);
+    
 }
+
 .hobbies{
     align-content: center;
     text-align: center;
-    background: blue;
 }
-
 
 p{ padding: 5%;
 margin:0%;
 margin-top: 0%;
-background: rgb(202, 133, 133);
+rgb(249, 249, 250);
 }
+
     .boxone{ 
     background: black;
     margin: 1px;
-    width: 50%;
-    height: 0.5%;
+    width: 70%;
+    height: 0.8%;
     padding: 0%;
      }
     ol{
         margin: 1%;
         padding: 0%;
     }
-header {
+
+    .experiencia{
+        width: 70%;
+    }
+    
+  header {
+    border: black;
     align-content: center;
-    text-align: ;
+    font-size: medium;
     margin:0%;
-   width: 30%;
-   padding: 1%;
-   background:rgb(202, 133, 133);
-}
+    width: 30%;
+    padding: 1%;
+    background: rgb(201, 162, 162);
+   }
 
 .titulos{ align-items: center;}
 
 section {
-    margin:0%;
    width: 60%;
-   padding: 0px;
-   padding-top: 0%;
-   padding-bottom: 0%;
    text-align: center;
-   background: rgb(199, 191, 191);
-
-
+   background:  rgb(249, 249, 250);
+   border-radius:;
+   border: 2px black;
 }
